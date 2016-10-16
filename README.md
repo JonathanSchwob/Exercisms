@@ -1,0 +1,2 @@
+# exercisms
+javascript exercises
