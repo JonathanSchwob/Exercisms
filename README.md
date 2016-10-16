@@ -1,2 +1,2 @@
 # exercisms
-javascript exercises
+learning js. all feedback welcome =)
